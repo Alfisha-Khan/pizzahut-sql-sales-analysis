@@ -82,7 +82,6 @@ Full query text, screenshots, and results for each are in [`queries.sql`](./quer
 ##  Files in This Repo:
 
 ```
-├── queries.sql                      # All 13 SQL queries, commented
 ├── PizzaHut_Sales_Analysis.pptx     # Full slide deck with insights & recommendations
 └── README.md
 ```
