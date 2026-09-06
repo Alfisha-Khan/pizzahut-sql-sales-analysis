@@ -47,7 +47,7 @@ Four related tables:
 | 12 | What percentage does each category contribute to total revenue? |
 | 13 | How does cumulative revenue grow over time? |
 
-Full query text, screenshots, and results for each are in [`queries.sql`](./queries.sql) and the [presentation](./https://github.com/Alfisha-Khan/pizzahut-sql-sales-analysis/blob/main/PizzaHut_Sales_Analysis%20SQL.pptx).
+Full query text, screenshots, and results for each are in [`queries.sql`](./queries.sql) and the [presentation](https://github.com/Alfisha-Khan/pizzahut-sql-sales-analysis/blob/main/PizzaHut_Sales_Analysis%20SQL.pptx).
 
 ---
 
